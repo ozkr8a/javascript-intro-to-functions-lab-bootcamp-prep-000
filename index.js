@@ -19,13 +19,13 @@ function sayHiToGrandma(string){
       lowercase = "hello!"
       ILU = "I Love you, Grandma."
   
-  if string === uppercase
+  if (string === uppercase)
   {
     return("YES INDEED!")
   } 
-  else if string === ILU
+  else if (string === ILU)
   {
-    return("I love you too")
+    return("I love you, too.")
   }
   else 
   {
