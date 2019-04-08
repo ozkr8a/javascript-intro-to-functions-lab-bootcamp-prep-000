@@ -20,6 +20,6 @@ function sayHiToGrandma(string){
   } else if{
     
   } else {
-    
+    return('I can\'t hear you!)
   }
 }
