@@ -27,8 +27,11 @@ function sayHiToGrandma(string){
   {
     return("I love you, too.")
   }
-  else 
+  else if (string === lowercase)
   {
     return("I can\'t hear you!")
+  }
+  else{
+    return("Unexpected message")
   }
 }
