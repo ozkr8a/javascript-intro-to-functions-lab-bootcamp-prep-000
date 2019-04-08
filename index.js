@@ -15,7 +15,7 @@ function logWhisper(string){
 }
 
 function sayHiToGrandma(string){
-  var uppercase = string
+  var uppercase, lowercase,  = string
       lowercase = "hello!"
       ILU = "I Love you, Grandma."
   
